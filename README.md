@@ -36,7 +36,7 @@ The brightness limit can use a different color space than saturation. I used ACE
 
 ### How to use it:
 #### In Lightroom/camera raw:
-If you use the Adobe Standard or Adobe Color profiles, you can use the “gamut fix” xmp profile files. The adobe color version has less brightness compression. Both support an adjustable amount from 0% to 100%.
+If you use the Adobe Standard or Adobe Color profiles, you can use the “gamut fix” xmp profile files. The adobe color version has less brightness compression. Adobe Standard has an adjustable amount from 0% to 100%.
 
 For other camera profiles, you can use the Create Profile menu in Camera Raw.
 1. Open an image with default settings (everything at 0, white balance: 'As Shot')
