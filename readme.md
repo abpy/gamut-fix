@@ -6,7 +6,7 @@ Gamut fix is a color transform lut to compress out-of-gamut colors into a smalle
 Editing/grading color images in a large gamut colorspace produces better results, but can cause very bright or saturated colors to become out-of-gamut, or outside the range of color that can be produced on a typical display.
 
 When converting to a smaller colorspace like sRGB, values that are too bright get clipped to 1.0 and colors that are too saturated will have negative values that are clipped to zero.
-In areas of an image where one or more channels are clipped, the color becomes distorted and can appear inaccurate or as a harsh edge in what should be a smooth gradient and lack.
+In areas of an image where one or more channels are clipped, the color becomes distorted and can lack detail, appear inaccurate or as a harsh edge in what should be a smooth gradient.
 
 #### Before and After Comparison
 Image processed with Adobe Standard and the Gamut Fix lut.  
