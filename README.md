@@ -58,3 +58,5 @@ For other camera profiles, you can use the Create Profile menu in Camera Raw.
 Some camera profiles, such as camera matching profiles, already have gamut mapping built in and do not need the extra lut.
 
 This lut is not a replacement for pre grade gamut compression. Some subjects such as stage lighting or vividly colored flowers will need gamut compression applied before color grading. For RAW editing, this needs to be part of the camera profile.
+
+If there is a different set of color spaces that you would find useful, let me know and I may consider adding an other lut version.
